@@ -33,6 +33,7 @@ A webpage for the Terminal V Festival 2025, as part of my university assessment.
 * GitHub Pages
 
 ## GitHub Pages Link
+https://github.com/oleksandrakoroll/Terminal-V/tree/main 
 
 ## Self-Assessment
 
